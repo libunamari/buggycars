@@ -25,4 +25,4 @@ The automated tests can be found TODO: link to automated tests.
 
 ## Critical bugs
 
-The critical bugs can be found TODO: link to critical bugs
+The critical bugs can be found here: https://github.com/libunamari/buggycars/issues
