@@ -24,7 +24,7 @@ from buggy_cars_testing.constants import (
 
 # Ideally this wouldn't be stored here, but instead in a secrets vault or a config file
 # but for simplicity, this is hardcoded here.
-USERNAME = "mgltest2"
+USERNAME = "mgltest4"
 PASSWORD = "Password1234!"
 
 
