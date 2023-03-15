@@ -74,7 +74,7 @@ class RegisterUserTests(BaseBuggyCarTests):
         element.submit()
 
         alerts = WebDriverWait(self.driver, WEB_PAGE_WAIT_TIME).until(
-            lambda _ : self.find_active_alert_messages()
+            lambda _: self.find_active_alert_messages()
         )
         self.assertTrue(
             alerts, "Expected alert after registration form is submitted but none were found"

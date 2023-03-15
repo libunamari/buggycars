@@ -137,7 +137,7 @@ class LoginTests(BaseBuggyCarTests):
                     hobby.submit()
 
                     alerts = WebDriverWait(self.driver, WEB_PAGE_WAIT_TIME).until(
-                        lambda _ : self.find_active_alert_messages()
+                        lambda _: self.find_active_alert_messages()
                     )
                     self.assertTrue(
                         alerts,
