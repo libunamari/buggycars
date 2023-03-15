@@ -21,7 +21,7 @@ The areas that are out of scope due to limited time are:
 
 ## Automated tests
 
-The automated tests can be found TODO: link to automated tests.
+The automated tests can be found here: https://github.com/libunamari/buggycars/blob/main/src/README.md
 
 ## Critical bugs
 
